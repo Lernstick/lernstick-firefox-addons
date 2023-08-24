@@ -1,0 +1,15 @@
+Source: lernstick-firefox-addons
+Section: web
+Priority: extra
+Maintainer: Ronny Standtke <ronny.standtke@gmx.net>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.6.2
+
+Package: lernstick-firefox-addons
+Architecture: all
+Depends: firefox-translations-addon
+Description: A policy template to automatically install Firefox extensions
+ This Debian package contains a policy template for Firefox to automatically
+ install selected extensions. Currently we install the following extensions:
+ - Firefox Translations:
+   https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/

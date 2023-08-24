@@ -1,0 +1,13 @@
+This package was debianized by Ronny Standtke <ronny.standtke@gmx.net> on
+Thu, 24 Aug 2023 16:05:40 +0200
+
+Copyright:
+
+    Copyright (C) 2023 Ronny Standtke <ronny.standtke@gmx.net>
+
+License:
+
+    GPLv3
+
+The Debian packaging is (C) 2023, Ronny Standtke <ronny.standtke@gmx.net> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
