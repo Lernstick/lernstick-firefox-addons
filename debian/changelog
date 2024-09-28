@@ -1,3 +1,10 @@
+lernstick-firefox-addons (2) lernstick-12; urgency=medium
+
+  * [74ec62] added .gitignore file
+  * [7d7026] added Page Assist Add-on
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 28 Sep 2024 19:11:20 +0200
+
 lernstick-firefox-addons (1) lernstick-12; urgency=medium
 
   * Initial release
