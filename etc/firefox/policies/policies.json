@@ -8,6 +8,10 @@
       "page-assist@nazeem": {
         "installation_mode": "force_installed",
         "install_url": "file:////usr/lib/mozilla/extensions/page-assist@nazeem.xpi"
+      },
+      "uBlock0@raymondhill.net": {
+        "installation_mode": "force_installed",
+        "install_url": "file:////usr/lib/mozilla/extensions/uBlock0@raymondhill.net.xpi"
       }
     }
   }
