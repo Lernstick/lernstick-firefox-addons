@@ -1,3 +1,9 @@
+lernstick-firefox-addons (3) lernstick-12; urgency=medium
+
+  * [27da0f] added uBlock Origin
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 04 Nov 2024 21:29:46 +0100
+
 lernstick-firefox-addons (2) lernstick-12; urgency=medium
 
   * [74ec62] added .gitignore file
