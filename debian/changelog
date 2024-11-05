@@ -1,3 +1,9 @@
+lernstick-firefox-addons (4) lernstick-12; urgency=medium
+
+  * [3f7a98] added firefox-ublock-origin-addon to dependencies
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 05 Nov 2024 09:56:06 +0100
+
 lernstick-firefox-addons (3) lernstick-12; urgency=medium
 
   * [27da0f] added uBlock Origin
