@@ -7,9 +7,11 @@ Standards-Version: 4.6.2
 
 Package: lernstick-firefox-addons
 Architecture: all
-Depends: firefox-page-assist-addon, firefox-translations-addon, firefox-ublock-origin-addon
+Depends: firefox-page-assist-addon, firefox-ublock-origin-addon
 Description: A policy template to automatically install Firefox extensions
  This Debian package contains a policy template for Firefox to automatically
  install selected extensions. Currently we install the following extensions:
- - Firefox Translations:
-   https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/
+ - Page Assist:
+   https://addons.mozilla.org/de/firefox/addon/page-assist/
+ - uBlock Origin:
+   https://addons.mozilla.org/de/firefox/addon/ublock-origin/
